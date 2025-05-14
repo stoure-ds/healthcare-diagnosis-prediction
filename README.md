@@ -35,21 +35,5 @@ Early diagnosis of certain conditions can significantly improve treatment outcom
 ## 🚀 How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/seydoutoure/healthcare-diagnosis-prediction.git
+git clone https://github.com/stoure-ds/healthcare-diagnosis-prediction.git
 cd healthcare-diagnosis-prediction
-```
-
-2. Install requirements:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the notebook:
-```bash
-jupyter notebook notebooks/healthcare_model.ipynb
-```
-
-## 📌 Future Improvements
-- Use ensemble methods (Random Forest, XGBoost)  
-- Integrate SHAP or LIME for model interpretability  
-- Expand dataset and feature set for broader use cases
